@@ -9,7 +9,7 @@ layout: layouts/post.njk
 
 What if the data is super nested?
 
-```py
+```python
 result = []
 def flatten(nested_list):
     for elem in nested_list:
