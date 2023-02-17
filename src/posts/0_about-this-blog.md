@@ -14,7 +14,3 @@ I fell in love with programming when I saw this Python course on Udemy. It was a
 So long story short I left work. Tried to complete an engineering degree, no luck. And since have been teaching my self web development.
 
 Time to finish this journey. To get there I need to get better at interview problems. An honestly, solving "Leetcode" style problems has helped me problem solve when building larger projects.
-
-> 💡 Are the live updates to your site distracting you while you write or work? Go to the project menu in the top-left of your Glitch editor, and uncheck the box for **Refresh App on Changes**.
-
-### Post metadata
