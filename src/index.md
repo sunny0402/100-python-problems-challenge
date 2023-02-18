@@ -8,6 +8,8 @@ layout: layouts/home.njk
 
 # 100 Python Problems Challenge!
 
-You can find me on [Twitter](https://www.11ty.dev/) and I will repost these articles on [Medium](https://medium.com/@sunny_codes) and finally check out my [portfolio website](https://sunnywebapp.com/).
+Welcome to my Python problem solving challenge.
+
+You can find me on [Twitter](https://twitter.com/sunny_codes) and I will republish some of these articles on [Medium](https://medium.com/@sunny_codes) and finally check out my [portfolio website](https://sunnywebapp.com/).
 
 ### Posts
