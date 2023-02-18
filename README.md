@@ -8,14 +8,14 @@ If you set out to be a software developer, finish the journery.
 
 Solve 100 Data Structure and Algorithms Problems with Python.
 
-| Index--- | Date-------  | Prblem-------- | Link--------------- |
-| -------- | ------------ | -------------- | ------------------- |
-| 1        | Feb 17, 2023 | Flatten Array  |                     |
-|          |              |                |                     |
-|          |              |                |                     |
-|          |              |                |                     |
-|          |              |                |                     |
-|          |              |                |                     |
-|          |              |                |                     |
-|          |              |                |                     |
-|          |              |                |                     |
+| Index--- | Date-------  | Prblem------------- | Link--------------- |
+| -------- | ------------ | ------------------- | ------------------- |
+| 1        | Feb 17, 2023 | Flatten Array       |                     |
+| 2        | Feb 18, 2023 | Remove Duplicates   |                     |
+|          |              |                     |                     |
+|          |              |                     |                     |
+|          |              |                     |                     |
+|          |              |                     |                     |
+|          |              |                     |                     |
+|          |              |                     |                     |
+|          |              |                     |                     |
