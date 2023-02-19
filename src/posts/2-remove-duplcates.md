@@ -9,9 +9,9 @@ layout: layouts/post.njk
 
 To remove duplicate characters from a string we can use a Python dictionary.
 
-Look up in a Python dictionary is fast because it basically serves as a hash table. Sp look up is O(1).
+Look up in a Python dictionary is fast because it basically serves as a hash table. So look up is O(1).
 
-And duplicate keys are not allowed. Or more accurately the the key will be overwritten if you add it more than once.
+And duplicate keys are not allowed. Or more accurately the key will be overwritten if you add it more than once.
 
 So to remove duplicate characters we iterate over the string add unique characters to the dictionary.
 
@@ -43,13 +43,13 @@ Output: "abc"
 Input: s = "cbacdcbc"
 Output: "acdb"
 
-So our function will preserver the order the character appear in, but remove duplicates and make sure in smallest lexicographical order.
+So our function will preserver the order the character appear in, but remove duplicates and ensure the smallest lexicographical order.
 
 The hard part is the while loop.
 
 ```python
-        while (my_stack and ((my_stack[-1] > char) and \
-                                      (idx < last_index[my_stack[-1]]) ) ):
+while (my_stack and ((my_stack[-1] > char) and \
+        (idx < last_index[my_stack[-1]]) ) ):
 ```
 
 We pop from the stack when:
@@ -57,7 +57,7 @@ We pop from the stack when:
 - the character at the top of stack is larger than current character
 - AND the character at the top of the stack occurs later in the string
 
-If the character occurs later we can add it to the stack later, thus smallest lexicographical order.
+If the character occurs later we can add it to the stack later, thus maintain the smallest lexicographical order.
 
 ```python
 class Solution:
