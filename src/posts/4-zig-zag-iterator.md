@@ -35,7 +35,9 @@ def hasNext(self) -> bool:
 </br>
 </br>
 
-Using a couple pointers as in merge sort to merge element into a common result array.
+Use a couple pointers as in merge sort to merge element into a common result array.
+
+<br/>
 
 ```python
 class ZigzagIterator:
@@ -78,6 +80,7 @@ class ZigzagIterator:
 
 <br/>
 The output:
+<br/>
 
 ```python
 #Test

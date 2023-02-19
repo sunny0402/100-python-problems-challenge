@@ -35,7 +35,10 @@ return word
 ```
 
 <br/>
-And as [described here](https://stackoverflow.com/questions/34008010/is-the-time-complexity-of-iterative-string-append-actually-on2-or-on), do something like:
+
+And as [described here](https://stackoverflow.com/questions/34008010/is-the-time-complexity-of-iterative-string-append-actually-on2-or-on) use an array to work with characters of the string.
+
+<br/>
 
 ```python
 output = []
@@ -48,7 +51,9 @@ return ''.join(output)
 ```
 
 <br/>
+
 Note that the join takes O(n) but is outside the loop.
+
 <br/>
 
 ```python
@@ -72,7 +77,10 @@ class Solution:
         return "".join(grouped)
 ```
 
+<br/>
+
 Running the function should produce the following ouput:
+
 <br/>
 
 ```python
