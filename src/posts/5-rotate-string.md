@@ -7,6 +7,8 @@ tags:
 layout: layouts/post.njk
 ---
 
+LeetCode problem [796. Rotate String](https://leetcode.com/problems/rotate-string/description/).
+
 Input: s = "abcde", goal = "cdeab"
 Output: true
 
