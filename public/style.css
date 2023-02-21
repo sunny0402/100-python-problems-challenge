@@ -228,9 +228,9 @@ a:hover {
 
 /* Post */
 .post {
-  display: flex;
+  /* display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: center; */
   place-items: normal;
 }
 .postTitle {
