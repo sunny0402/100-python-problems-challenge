@@ -228,11 +228,11 @@ a:hover {
 
 /* Post */
 .post {
-  /* display: flex;
-  justify-content: center;
-  align-items: center; */
   place-items: normal;
 }
+
+/* .post code {
+} */
 .postTitle {
   font-size: 4rem;
   color: var(--color-text-main);
@@ -244,7 +244,11 @@ a:hover {
 }
 
 .post img {
-  width: 700px;
-  height: 700px;
-  object-fit: auto;
+  /* width: 600px;
+  height: 600px;
+  object-fit: contain; */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
 }
