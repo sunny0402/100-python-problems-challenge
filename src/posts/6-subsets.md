@@ -39,3 +39,7 @@ class Solution:
         dfs(0)
         return self.output
 ```
+
+Tracing through the first half of recursive calls...
+
+![depth first search of all subsets](../../public/76_subsets.jpeg)
