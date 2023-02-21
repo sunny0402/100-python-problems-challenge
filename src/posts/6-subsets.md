@@ -40,6 +40,7 @@ class Solution:
         return self.output
 ```
 
+<br/>
 Tracing through the first half of recursive calls...
 
 ![depth first search of all subsets](../../public/76_subsets.jpeg)

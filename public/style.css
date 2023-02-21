@@ -228,6 +228,9 @@ a:hover {
 
 /* Post */
 .post {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   place-items: normal;
 }
 .postTitle {
@@ -238,4 +241,10 @@ a:hover {
 }
 .controls {
   margin: 3rem 0 2rem;
+}
+
+.post img {
+  width: 700px;
+  height: 700px;
+  object-fit: auto;
 }
