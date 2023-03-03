@@ -1,7 +1,7 @@
 ---
 title: Python Challenge - Flatten Nested Array
 description: First Problem of 100 Python Problem Challenge! Using Python flatten a nested list.
-date: 2023-03-17
+date: 2023-02-17
 tags:
   - posts
 layout: layouts/post.njk

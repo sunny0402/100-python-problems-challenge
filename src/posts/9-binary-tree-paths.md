@@ -1,7 +1,7 @@
 ---
 title: Python Challenge - Binary Search Tree Paths
 description: Generate all paths from root to leaf.
-date: 2023-03-26
+date: 2023-02-26
 tags:
   - posts
 layout: layouts/post.njk

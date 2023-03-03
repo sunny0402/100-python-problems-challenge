@@ -1,7 +1,7 @@
 ---
 title: Python Challenge - Remove Duplicates
 description: Remove duplicate characters from a string.
-date: 2023-03-18
+date: 2023-02-18
 tags:
   - posts
 layout: layouts/post.njk

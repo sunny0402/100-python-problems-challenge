@@ -1,7 +1,7 @@
 ---
 title: Python Challenge - Rotate String
 description: Can two strings be made equal after rotation.
-date: 2023-03-19
+date: 2023-02-19
 tags:
   - posts
 layout: layouts/post.njk

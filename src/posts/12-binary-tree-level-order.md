@@ -1,7 +1,7 @@
 ---
 title: Python Challenge - Binary Tree Level Order Traversal
 description: Use breadth first search to traverse a binary tree.
-date: 2023-03-28
+date: 2023-02-28
 tags:
   - posts
 layout: layouts/post.njk

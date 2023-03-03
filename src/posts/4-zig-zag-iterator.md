@@ -1,7 +1,7 @@
 ---
 title: Python Challenge - Zig Zag Iterator
 description: Return element from two vectors alternatively.
-date: 2023-03-18
+date: 2023-02-18
 tags:
   - posts
 layout: layouts/post.njk

@@ -1,7 +1,7 @@
 ---
 title: Python Challenge - Find All Subsets
 description: Given an array of numbers find all possible subsets.
-date: 2023-03-19
+date: 2023-02-19
 tags:
   - posts
 layout: layouts/post.njk

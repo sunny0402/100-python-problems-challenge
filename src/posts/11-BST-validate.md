@@ -1,7 +1,7 @@
 ---
 title: Python Challenge - Validate Binary Search Tree
 description: Validate a binary search tree.
-date: 2023-03-27
+date: 2023-02-27
 tags:
   - posts
 layout: layouts/post.njk

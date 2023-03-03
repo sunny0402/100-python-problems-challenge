@@ -1,7 +1,7 @@
 ---
 title: What's this challenge about?
 description: Sunny Codes 100 Python Problem Challenge Intro
-date: 2023-03-17
+date: 2023-02-17
 tags:
   - posts
 layout: layouts/post.njk

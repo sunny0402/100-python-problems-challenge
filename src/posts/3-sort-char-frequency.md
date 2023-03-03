@@ -1,7 +1,7 @@
 ---
 title: Python Challenge - Sort Characters By Frequency
 description: Sort a string based on character frequency.
-date: 2023-03-18
+date: 2023-02-18
 tags:
   - posts
 layout: layouts/post.njk

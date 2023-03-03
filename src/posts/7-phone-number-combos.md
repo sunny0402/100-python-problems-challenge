@@ -1,7 +1,7 @@
 ---
 title: Python Challenge - Letter Combinations of a Phone Number
 description: Find all letter combinations given an input number.
-date: 2023-03-24
+date: 2023-02-24
 tags:
   - posts
 layout: layouts/post.njk
