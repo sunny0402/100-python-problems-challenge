@@ -9,6 +9,8 @@ layout: layouts/post.njk
 
 This is [LeetCode problem 653](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/).
 
+Use breadth first search to traverse the tree.
+
 ```python
 
 from BST import TreeNode, myBST
