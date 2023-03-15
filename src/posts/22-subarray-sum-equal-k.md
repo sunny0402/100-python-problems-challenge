@@ -7,6 +7,8 @@ tags:
 layout: layouts/post.njk
 ---
 
+This is [LeetCode problem 560](https://leetcode.com/problems/subarray-sum-equals-k/description/).
+
 A solution that is too slow. n^2 time.
 
 Calculate whether the current cumulative sum totals the target.
